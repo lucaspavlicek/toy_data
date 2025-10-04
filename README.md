@@ -1,5 +1,5 @@
 # Generating dummy data to mimic a given dataset
-This is specifically intended for Telescope Array data. There are two notebook files:
+This is specifically intended for Telescope Array data. There are two notebook files, written in Python:
 
 ## toy_data.ipynb
 ### Organization
